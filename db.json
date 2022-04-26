@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "Country": "India",
+      "City": "Nagpur",
+      "Population": "68464654",
+      "id": 1
+    },
+    {
+      "Country": "India",
+      "City": "Delhi",
+      "Population": "8656555",
+      "id": 2
+    },
+    {
+      "Country": "China",
+      "City": "Shanghai",
+      "Population": "6595353",
+      "id": 3
+    }
+  ]
+}
