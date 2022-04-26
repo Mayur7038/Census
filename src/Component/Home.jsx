@@ -16,6 +16,7 @@ export const Home = ()=>{
     
     
     const Data = useSelector((store)=> store.data);
+
     
     const getData = ()=>{
         
@@ -39,7 +40,7 @@ export const Home = ()=>{
             if(+a.Population < +b.Population) return d;
             return 0;
         })
-        setDate(arr);
+        setdata(arr);
     }
 
     const [ Country , setCountry] = useState("");

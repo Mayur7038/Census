@@ -2,12 +2,6 @@
   "data": [
     {
       "Country": "India",
-      "City": "Nagpur",
-      "Population": "68464654",
-      "id": 1
-    },
-    {
-      "Country": "India",
       "City": "Delhi",
       "Population": "8656555",
       "id": 2
@@ -17,6 +11,18 @@
       "City": "Shanghai",
       "Population": "6595353",
       "id": 3
+    },
+    {
+      "Country": "india",
+      "City": "Delhi",
+      "Population": "58522",
+      "id": 4
+    },
+    {
+      "Country": "India",
+      "City": "Nagpur",
+      "Population": "5555",
+      "id": 5
     }
   ]
 }
